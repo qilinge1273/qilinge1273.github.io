@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>linblog</title>
+  
+  
+  <link href="https://linblog.ga/atom.xml" rel="self"/>
+  
+  <link href="https://linblog.ga/"/>
+  <updated>2021-06-18T23:43:48.860Z</updated>
+  <id>https://linblog.ga/</id>
+  
+  <author>
+    <name>qilinge</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://linblog.ga/2021/06/18/mc%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <id>https://linblog.ga/2021/06/18/mc%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
+    <published>2021-06-18T23:43:48.860Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="兄弟们好"><a href="#兄弟们好" class="headerlink" title="兄弟们好"></a>兄弟们好</h1><h2 id="最近我的博客咕了"><a href="#最近我的博客咕了" class="headerlink" title="最近我的博客咕了"></a>最近我的博客咕了</h2><p>没错从开学到现在一直在咕</p><p>于是我良心发现回来水博客了</p><p>最近马上要期末了</p><p>也已经好久没更新了</p><p>来说说最近吧</p><p>我们班的<a href="1357.ga">温某</a>没错就是那个LaowenB</p><p>他开了一个mc的服务器给腌班的<a href="https://z.1357.ga">庄狗</a>&amp;学霸 黄某 &amp; me</p><p>不过因为某种特殊原因我已经被被ban了三次a………z</p><p>因为我们三在玩</p><p>吸引了其他同学（王某、蔡某、董某）也想玩</p><p>但是因服务器**如：他用他家电脑所以经常被断电（没错就是直接拔下插头）</p><p>电脑配置垃圾所以只能开5人所以少了一个</p><p>我决定合资买一台服务器，服务器淘宝上很多由于我们是学生所以挑了最便宜的和0差评的</p><p>但是买之前又有一块打了水漂</p><p>我去看了mcbbs上的蓝科数据觉得<em>（一</em>难尽）</p><p>后面我才买了那个某某家的服务器</p><p>其实很好用的</p><p>面板服务器对小白比较友好基本是中文</p><p>好了，服务器的ip后面再放出来</p><p>拜拜</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;兄弟们好&quot;&gt;&lt;a href=&quot;#兄弟们好&quot; class=&quot;headerlink&quot; title=&quot;兄弟们好&quot;&gt;&lt;/a&gt;兄弟们好&lt;/h1&gt;&lt;h2 id=&quot;最近我的博客咕了&quot;&gt;&lt;a href=&quot;#最近我的博客咕了&quot; class=&quot;headerlink&quot; title=&quot;最</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>图床推荐</title>
+    <link href="https://linblog.ga/2021/06/18/%E5%9B%BE%E5%BA%8A%E6%8E%A8%E8%8D%90/"/>
+    <id>https://linblog.ga/2021/06/18/%E5%9B%BE%E5%BA%8A%E6%8E%A8%E8%8D%90/</id>
+    <published>2021-06-18T23:43:48.860Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<p>前面讲过用<a href="https://linblog.ga/2020/12/19/用gitee-github-picgo制作博客图床/">gitee/github+picgo制作博客图床</a></p><p>但我为啥还要讲呢？</p><p>因为我们给体谅那些懒癌晚期的人啊</p><p>所以话不多说开始吧</p><p>本文章由于作者太懒所以不贴出优点缺点及网址。<br>仅作为推荐可以自行google、baidu……</p><p><img src="https://gitee.com/qilinge_img/img/raw/master/20210110180820.png" alt=""><br><img src="https://gitee.com/qilinge_img/img/raw/master/20210110180912.png" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前面讲过用&lt;a href=&quot;https://linblog.ga/2020/12/19/用gitee-github-picgo制作博客图床/&quot;&gt;gitee/github+picgo制作博客图床&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;但我为啥还要讲呢？&lt;/p&gt;
+&lt;p&gt;因为我们给体谅那些懒癌晚</summary>
+      
+    
+    
+    
+    
+    <category term="博客图床" scheme="https://linblog.ga/tags/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客搭建教程</title>
+    <link href="https://linblog.ga/2021/01/03/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    <id>https://linblog.ga/2021/01/03/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
+    <published>2021-01-03T14:55:14.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<p>本篇博客适用于<strong>Mac</strong>用户.</p><p>网上hexo博客制作教程其实有很多，但有的说不清楚这篇博文就当成是一个大合集吧. 废话不多说, 下面开始我们的正篇.</p><h1 id="搭建hexo"><a href="#搭建hexo" class="headerlink" title="搭建hexo"></a>搭建hexo</h1><h2 id="准备环境"><a href="#准备环境" class="headerlink" title="准备环境"></a>准备环境</h2><h3 id="安装homebrew"><a href="#安装homebrew" class="headerlink" title="安装homebrew"></a>安装homebrew</h3><p>在终端输入<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;bin&#x2F;zsh -c &quot;$(curl -fsSL https:&#x2F;&#x2F;gitee.com&#x2F;cunkai&#x2F;HomebrewCN&#x2F;raw&#x2F;master&#x2F;Homebrew.sh)&quot;</span><br></pre></td></tr></table></figure><br>然后用这行代码验证<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;usr&#x2F;local&#x2F;Homebrew&#x2F;bin&#x2F;brew -v </span><br></pre></td></tr></table></figure></p><h3 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h3><p>在<a href="http://nodejs.cn/download/">官网这里安装</a></p><p>验证安装</p><p>nodejs：<code>nodejs -v</code></p><p>npm：<code>npm -v</code></p><h3 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><h2 id="搭建博客"><a href="#搭建博客" class="headerlink" title="搭建博客"></a>搭建博客</h2><p>在你喜欢的地方新建一个文件夹<br>文件名什么都可以<br>我的是hexo</p><p>在终端输入<code>cd</code>(d的后面有空格)然后把文件夹的路径粘贴进来（右键按住option键就有了）</p><p>后面的代码基本上都是在这个文件夹输入的</p><p>在终端输入下面代码（时间可能有点长，请耐心等待）<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure></p><p>初始化完毕后输入下面代码测试服务</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server（可以简略成hexo s）</span><br></pre></td></tr></table></figure><p>这时你可以打开浏览器访问 <a href="http://localhost:4000">http://localhost:4000</a> 就可以看到你刚刚搭建成功的博客页面了. 当然如果你使用的是云服务器, 那么同样可以打开 (云服务器的 ip):4000 来访问博客.</p><h2 id="将博客部署到-Github"><a href="#将博客部署到-Github" class="headerlink" title="将博客部署到 Github"></a>将博客部署到 Github</h2><h3 id="注册-Github-账号"><a href="#注册-Github-账号" class="headerlink" title="注册 Github 账号"></a>注册 Github 账号</h3><p>首先你要有一个 Github 账号 (已有账号可以跳过), 点此前往<a href="https://github.com/">注册</a>. 输入你的邮箱和你起的用户名, 密码就可以注册了. 这里我们假设你的用户名为 qilinge1273 邮箱为 3371530472@qq.com (下面所有出现用户名和邮箱的内容换成你自己的就好了).</p><h3 id="设置-user-name-和-user-email"><a href="#设置-user-name-和-user-email" class="headerlink" title="设置 user.name 和 user.email"></a>设置 user.name 和 user.email</h3><p>这里要给 git 设置变量.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;qilinge1273&quot;</span><br><span class="line">git config --global user.email &quot;3371530472@qq.com&quot;</span><br></pre></td></tr></table></figure><h3 id="配置-SSH-密匙"><a href="#配置-SSH-密匙" class="headerlink" title="配置 SSH 密匙"></a>配置 SSH 密匙</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C user.email</span><br></pre></td></tr></table></figure><p>如果让你输入直接敲回车</p><p>这时进入到 /root/.ssh/ 目录下查看 id_rsa.pub 文件</p><p>把里面的东西全部复制下来，一个也不要漏</p><p>然后<a href="https://github.com/settings/keys">到 Github 添加 ssh 密匙</a>.<br>点击 New SSH key 按钮进行添加</p><p><img src="https://yunist.gitee.io/hexo/Hexo_blog_build/1.png" alt=""><br><img src="https://yunist.gitee.io/hexo/Hexo_blog_build/2.png" alt=""><br>点击 Add SSH key确认添加.</p><h3 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h3><p>在登陆状态下打开 Github 主页, 点击<code>New</code>创建新仓库.</p><p><img src="https://gitee.com/qilinge_img/img/raw/master/20210103154952.png" alt=""></p><p>这里要注意, 这个仓库的命名是有一定格式的, 格式是: 用户名.github.io,<br>比如我的就是 blog (还记得我之前说的吗, 出现用户名和邮箱通通换成你自己的就好了).<br><img src="https://gitee.com/qilinge_img/img/raw/master/20210103155133.png" alt=""></p><p>点击<code>Create repository</code>创建该仓库. 由于我已经创建了这个仓库, 所以有报错.</p><h3 id="配置-config-yml"><a href="#配置-config-yml" class="headerlink" title="配置 _config.yml"></a>配置 _config.yml</h3><p>进入到博客根目录 (也就是一个名字叫 hexo 的目录, 一般在你的主目录下),<br>打开一个名字叫 _config.yml 的文件, 找到 deploy 这个部分, 修改成如下内容:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">    type: git</span><br><span class="line">    repo: git@github.com:qilinge1273&#x2F;blog.git</span><br><span class="line">    branch: master</span><br></pre></td></tr></table></figure><p>保存一下. (将所有用户名和邮箱都改成自己的)</p><h3 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h3><p>清空静态页面<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo cl</span><br><span class="line">hexo g</span><br></pre></td></tr></table></figure><br>先运行下面这条命令否则直接部署会报错<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><br>然后将 public 文件内容部署到 Github 仓库<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure><br><code>hexo cl&amp;&amp;hexo g&amp;&amp;hexo d</code> 称为部署三件套.</p><p>此时你的个人博客就部署成功啦! 你可以通过访问 <a href="https://github用户名.github.io">https://github用户名.github.io</a> 来浏览你的博客页面</p><p>（但是本文面向Mac用户所以<code>https://github用户名.github.io</code>你们大概率打不开，我在这不想多说自行谷歌去吧)</p><p>这已经算是一个完整的 Hexo 博客了, 之后会有进一步的美化配置教程.</p><h2 id="Hexo-发布文章简单介绍"><a href="#Hexo-发布文章简单介绍" class="headerlink" title="Hexo 发布文章简单介绍"></a>Hexo 发布文章简单介绍</h2><p>在 Hexo 博客目录内 (包括其子目录) 执行</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;文章名&quot;</span><br></pre></td></tr></table></figure><p>就会在<code>hexo/source/_posts</code>下创建一个<code>文章名.md</code>文件, 里面可以写下你的 markdown 文章, 然后通过执行部署三件套, 就能部署到你的个人博客里.</p><h3 id="Front-matter"><a href="#Front-matter" class="headerlink" title="Front-matter"></a>Front-matter</h3><p>在文章正文前, 一般都有由两行 —- 包起来的内容, 称为 Front-matter .在 Hexo 官方文档里, 是这么说的</p><blockquote><p>Front-matter 是文件最上方以<code>---</code>分隔的区域，用于指定个别文件的变量</p></blockquote><p>比如</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: Hello World</span><br><span class="line">date: 2013&#x2F;7&#x2F;13 20:46:25</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>干什么的应该从名字就能看出来. 这里不过多介绍如何写文章, <a href="https://hexo.io/zh-cn/docs/">官方文档</a>已经写得很详细了.</p><h3 id="文章资源文件夹"><a href="#文章资源文件夹" class="headerlink" title="文章资源文件夹"></a>文章资源文件夹</h3><p>文章资源文件夹一般是用于存放文章的图片, 方便管理. 进入站点<code>_config.yml</code>将<code>post_asset_folder</code>选项设置为 true</p><p>打开该选项后, 如果你使用<code>hexo new &quot;文章名&quot;</code>来创建文章, 会在同一目录生成同名文件夹. 如果在里面放了图片<code>abc.png</code>, 那么你就可以使用<code>![](abc.png)</code>这样的 markdown 语法来引用该图片 (在 markdown 编辑器中可能无法正确显示, 但是部署上去是完全正常的) . 这样就能实现使用相对路径引用图片.</p><h2 id="config-yml-配置介绍"><a href="#config-yml-配置介绍" class="headerlink" title="_config.yml 配置介绍"></a>_config.yml 配置介绍</h2><p>_config.yml 这个文件我们前面已经更改过它一次了, 就是在配置部署的时候, 还记得吗? 这是整个 Hexo 博客的配置文件, 现在我们列出主要需要更改的地方, 按照关键字去查找更改就好了.</p><pre><code>所有配置的配置名和配置值都要隔一个空格, 比如说 title 这个配置, 必须要写成 title: 云玩家 而不可以写成 title:云玩家. 前后是一个空格的区别!!! 这是 yaml (即以 .yml 为后缀的文件) 的语法, 要严格遵守.</code></pre><h3 id="site"><a href="#site" class="headerlink" title="site"></a>site</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">title: # 网站标题</span><br><span class="line">subtitle: # 网站副标题</span><br><span class="line">description: # 网站描述</span><br><span class="line">keywords: # 网站关键词</span><br><span class="line">author: # 网站作者</span><br><span class="line">language: # 语言, 一般填 &#39;zh-CN&#39;</span><br><span class="line">timezone: # 时区, 可以不填</span><br></pre></td></tr></table></figure><h1 id="美化"><a href="#美化" class="headerlink" title="美化"></a>美化</h1><h2 id="更换域名"><a href="#更换域名" class="headerlink" title="更换域名"></a>更换域名</h2><p>我们常常看到别人的博客域名并不是 xxxx.github.io 形式的, 而是其他的域名. 这是因为别人绑定了自己的域名. 下面就来教你如何绑定自己的域名</p><h3 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h3><p>首先, 你要拥有一个域名, 域名可以在很多地方买到, 比如阿里云, 腾讯云等等. 不同的域名价格也不同, 但是基本上都不是很贵. 购买域名过程中的实名等等步骤这里就不再详细讲解</p><h3 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h3><p>购买了域名后, 可以添加解析到你的 Github Pages. 下面我们以腾讯云为例. 首先在你的域名管理处找到你要解析的域名, 点击 解析 按钮, 进入解析界面. 然后点添加记录, 就可以添加解析记录了.<br>这条解析记录我们需要填的有 6 个值, 分别是<code>主机记录</code>,<code>记录类型</code>,<code>线路类型</code>,<code>记录值</code>,<code>TTL</code>. 我们只需要修改3个地方</p><p>第一个是主机记录，它相当于域名的前缀，如果不想要可以填@</p><p>第二个是记录类型，我们要修改成CHAME</p><p>第三个是记录值，这里就是<code>你的用户名.github.io</code></p><p>所有值填完之后就可以点击<code>保存</code>添加解析记录了</p><h3 id="Github-Pages-添加解析"><a href="#Github-Pages-添加解析" class="headerlink" title="Github Pages 添加解析"></a>Github Pages 添加解析</h3><p>进入 hexo 主目录并输入以下命令</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">touch source&#x2F;CNAME</span><br></pre></td></tr></table></figure><p>进入该文件并添加你刚刚解析的域名(只能有一个)<br>最后执行部署三件套 hexo cl&amp;&amp;hexo g&amp;&amp;hexo d 后就可以用你自己的域名访问你的博客啦!</p><p>好了本文就先讲到这里主题什么的后面再写</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇博客适用于&lt;strong&gt;Mac&lt;/strong&gt;用户.&lt;/p&gt;
+&lt;p&gt;网上hexo博客制作教程其实有很多，但有的说不清楚这篇博文就当成是一个大合集吧. 废话不多说, 下面开始我们的正篇.&lt;/p&gt;
+&lt;h1 id=&quot;搭建hexo&quot;&gt;&lt;a href=&quot;#搭建hexo&quot; cl</summary>
+      
+    
+    
+    
+    
+    <category term="hexo 博客" scheme="https://linblog.ga/tags/hexo-%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用gitee/github+picgo制作博客图床</title>
+    <link href="https://linblog.ga/2020/12/19/%E7%94%A8gitee-github-picgo%E5%88%B6%E4%BD%9C%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://linblog.ga/2020/12/19/%E7%94%A8gitee-github-picgo%E5%88%B6%E4%BD%9C%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A/</id>
+    <published>2020-12-19T15:16:49.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<p>大家好可以看见我之前的文章基本没有什么图片</p><p>原因是我没有图床啊</p><blockquote><p>有人问了:<code>github</code>不是有空间放吗？</p></blockquote><p>你们想啊！</p><p>github那速度<code>简直</code><strong><em>*</em></strong></p><p>我也想过<code>gitee</code>可是如果我写文章难道要打开终端新建md</p><p>然后打开github/gitee上传图片<br>再在vscode粘贴<code>![****](****)</code><br>写博客吗</p><p>我查阅了大量资料教大家搭建自己的博客图床</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><h2 id="需要："><a href="#需要：" class="headerlink" title="需要："></a>需要：</h2><p>gitee/github的账号</p><p>安装<a href="https://github.com/Molunerfinn/PicGo/releases">picgo</a>(mac选dmg，windows选exe)</p><h2 id="个人访问令牌"><a href="#个人访问令牌" class="headerlink" title="个人访问令牌"></a>个人访问令牌</h2><p>在<a href="https://github.com/settings/tokens">这里</a>生成新令牌tokens，<br>note随便填，勾选<br><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219154855.png" alt=""><br>点击绿色按钮把绿勾旁边一大串复制下来，退出这个界面可就没了！</p><h2 id="配置picgo"><a href="#配置picgo" class="headerlink" title="配置picgo"></a>配置picgo</h2><h3 id="GitHub"><a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub</h3><p>右键这个<img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219155302.png" alt="">打开详细窗口<br><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219155449.png" alt=""></p><p>打开图床设置的GitHub图床</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219155658.png" alt="">的格式是<code>GitHub用户名/仓库</code></p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219155821.png" alt="">填main或master</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219160715.png" alt="">填刚刚生成的tokens</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219161014.png" alt="">填写图片存放的文件夹</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219161823.png" alt="">由于国内访问raw会很慢或不能访问所以用cdn</p><p>点击确定和设为默认图床接下来就可以把图片拖进框框里上传啦！</p><h3 id="gitee码云"><a href="#gitee码云" class="headerlink" title="gitee码云"></a>gitee码云</h3><p>右键这个<img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219155302.png" alt="">打开详细窗口<br><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219155449.png" alt=""></p><p>打开<img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219162712.png" alt="">搜索gitee<br>安装插件重启应用图床设置就多了一个gitee</p><p>打开gitee</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219162959.png" alt="">的格式是<code>Gitee用户名/仓库</code></p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219163124.png" alt="">填写分支，默认是master</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219163346.png" alt="">填写gitee的tokens（生成方法和GitHub差不多）</p><p><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219163628.png" alt="">由于gitee是国内的所以可以不用填</p><p>点击确定和设为默认图床接下来就可以把图片拖进框框里上传啦</p><p>当然还可以设置其他图床可以设置自行去看其他博主的视频</p><p>这里推荐几个插件大家可以去搜<br><img src="https://cdn.jsdelivr.net/gh/qilinge1273/qilinge-img//20201219164234.png" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;大家好可以看见我之前的文章基本没有什么图片&lt;/p&gt;
+&lt;p&gt;原因是我没有图床啊&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有人问了:&lt;code&gt;github&lt;/code&gt;不是有空间放吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;你们想啊！&lt;/p&gt;
+&lt;p&gt;github那速度&lt;c</summary>
+      
+    
+    
+    
+    
+    <category term="博客图床" scheme="https://linblog.ga/tags/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>啊？</title>
+    <link href="https://linblog.ga/2020/12/15/%E5%95%8A%EF%BC%9F/"/>
+    <id>https://linblog.ga/2020/12/15/%E5%95%8A%EF%BC%9F/</id>
+    <published>2020-12-15T22:17:56.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<p>额大…大加号</p><p>我…我来更新文…文章了</p><p>-诶你作业还没写呢。</p><p>啊拜拜。。。。。。。。。。。。。。。。写作业去了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;额大…大加号&lt;/p&gt;
+&lt;p&gt;我…我来更新文…文章了&lt;/p&gt;
+&lt;p&gt;-诶你作业还没写呢。&lt;/p&gt;
+&lt;p&gt;啊拜拜。。。。。。。。。。。。。。。。写作业去了&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="日常发表" scheme="https://linblog.ga/tags/%E6%97%A5%E5%B8%B8%E5%8F%91%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python1</title>
+    <link href="https://linblog.ga/2020/12/13/python1/"/>
+    <id>https://linblog.ga/2020/12/13/python1/</id>
+    <published>2020-12-13T12:41:03.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="今天早上"><a href="#今天早上" class="headerlink" title="今天早上"></a>今天早上</h1><p>进行了青少年编程能力等级测试的<strong>python1级</strong><br>当然我也在学python<br>所以我也不例外<br>我觉得我其实还<strong>ok</strong><br>因为前面还简单<br>后面有一道操作题有点难<br>没错是<strong>海龟画图</strong><br>虽然不算难<br><strong>但是</strong><br>我没怎么实操过<br>所以被难住了<br>想学python的<em>不要怕</em><br>多实操考级的事能过的<br>毕竟我也才学3个月就考级了<br>认真听能过的加油吧少年！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;今天早上&quot;&gt;&lt;a href=&quot;#今天早上&quot; class=&quot;headerlink&quot; title=&quot;今天早上&quot;&gt;&lt;/a&gt;今天早上&lt;/h1&gt;&lt;p&gt;进行了青少年编程能力等级测试的&lt;strong&gt;python1级&lt;/strong&gt;&lt;br&gt;当然我也在学python&lt;br&gt;所以</summary>
+      
+    
+    
+    
+    
+    <category term="python" scheme="https://linblog.ga/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown</title>
+    <link href="https://linblog.ga/2020/12/03/Markdown%E5%86%99%E4%BD%9C%E8%AF%AD%E6%B3%95/"/>
+    <id>https://linblog.ga/2020/12/03/Markdown%E5%86%99%E4%BD%9C%E8%AF%AD%E6%B3%95/</id>
+    <published>2020-12-03T18:37:50.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们有了一个博客后啥巴拉巴拉的东西设置好后要干嘛！<br>当然是要写文章啦<br>怎么写呢？<br>用Markdown写呀<br>怎么写呢？<br>看下面⬇️</p><h1 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h1><hr><p>一段句子前面加个#号为一级标题，两个为二级标题，以此类推（注意每个#号后面打空格）。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题</span><br><span class="line">###### 六级标题</span><br></pre></td></tr></table></figure></p><h1 id="二、段落"><a href="#二、段落" class="headerlink" title="二、段落"></a>二、段落</h1><hr><ul><li>在加粗的文字两边分别加一个*号</li><li>粗体： 在加斜的文字两边分别加两个*号</li><li>斜粗体：文字两边分别加三个*号</li><li>分割线： 三个或者三个以上的 - 或者 * 都可以</li><li>删除线：文字两边分别加两个~~</li><li>下划线： 文字两边分别加两个<u></li></u><li>脚注： 语法[^要注明的文本]: 内容</li></ul><h1 id="三、列表"><a href="#三、列表" class="headerlink" title="三、列表"></a>三、列表</h1><hr><p>无序列表使用<strong>* 、+或-</strong>作为列表标记，这些标记后面要添加一个空格，然后再填写内容：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">* 第一项</span><br><span class="line">* 第二项</span><br><span class="line">* 第三项</span><br><span class="line"></span><br><span class="line">+ 第一项</span><br><span class="line">+ 第二项</span><br><span class="line">+ 第三项</span><br><span class="line"></span><br><span class="line">- 第一项</span><br><span class="line">- 第二项</span><br><span class="line">- 第三项</span><br></pre></td></tr></table></figure><br>有序列表使用数字并加上 . 号来表示，如：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 第一项</span><br><span class="line">2. 第二项</span><br><span class="line">3. 第三项</span><br></pre></td></tr></table></figure></p><h2 id="列表嵌套"><a href="#列表嵌套" class="headerlink" title="列表嵌套"></a>列表嵌套</h2><hr><p>列表嵌套只需在子列表中的选项前面添加四个空格即可：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">1. 第一项：</span><br><span class="line">    - 第一项嵌套的第一个元素</span><br><span class="line">    - 第一项嵌套的第二个元素</span><br><span class="line">2. 第二项：</span><br><span class="line">    - 第二项嵌套的第一个元素</span><br><span class="line">    - 第二项嵌套的第二个元素</span><br></pre></td></tr></table></figure></p><h1 id="四、区块"><a href="#四、区块" class="headerlink" title="四、区块"></a>四、区块</h1><hr><p>Markdown 区块引用是在段落开头使用 &gt; 符号 ，然后后面紧跟一个空格符号：。</p><p>另外区块是可以嵌套的，一个 &gt; 符号是最外层，两个 &gt; 符号是第一层嵌套，以此类推：</p><h2 id="1-区块中使用列表"><a href="#1-区块中使用列表" class="headerlink" title="1.区块中使用列表"></a>1.区块中使用列表</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&gt; 区块中使用列表</span><br><span class="line">&gt; 1. 第一项</span><br><span class="line">&gt; 2. 第二项</span><br><span class="line">&gt; + 第一项</span><br><span class="line">&gt; + 第二项</span><br><span class="line">&gt; + 第三项</span><br></pre></td></tr></table></figure><h2 id="2-列表中使用区块"><a href="#2-列表中使用区块" class="headerlink" title="2. 列表中使用区块"></a>2. 列表中使用区块</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">* 第一项</span><br><span class="line">    &gt; 菜鸟教程</span><br><span class="line">    &gt; 学的不仅是技术更是梦想</span><br><span class="line">* 第二项</span><br></pre></td></tr></table></figure><h1 id="五、代码"><a href="#五、代码" class="headerlink" title="五、代码"></a>五、代码</h1><ol><li>如果是段落上的一个函数或片段的代码可以用反引号把它包起来（<strong> `</strong>），例如：<br>printf()函数</li><li>代码区块：段落前加三个```。</li></ol><h1 id="六、链接"><a href="#六、链接" class="headerlink" title="六、链接"></a>六、链接</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">语法：[链接名称](链接地址)或&lt;链接地址&gt;</span><br></pre></td></tr></table></figure><h1 id="七、图片"><a href="#七、图片" class="headerlink" title="七、图片"></a>七、图片</h1><p>语法：<img src="图片地址" alt="图片alt" title="title"><br>图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br>图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加</p><h1 id="八、表格"><a href="#八、表格" class="headerlink" title="八、表格"></a>八、表格</h1><p>语法：用|来分隔单元格，用—-来分隔表头和其他行，如下：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">|  表头   | 表头  |</span><br><span class="line">|  ---  | ---  |</span><br><span class="line">| 单元格  | 单元格 |</span><br><span class="line">| 单元格  | 单元格 |</span><br></pre></td></tr></table></figure><br>对齐方式：</p><ol><li>--::右对齐</li><li>:--</li><li>:-::中对齐</li></ol><p>这是一些常用的markdown语法<br>其他语法后面会说</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我们有了一个博客后啥巴拉巴拉的东西设置好后要干嘛！&lt;br&gt;当然是要写文章啦&lt;br&gt;怎么写呢？&lt;br&gt;用Markdown写呀&lt;br&gt;怎么写呢？&lt;br&gt;看下面⬇️&lt;/p&gt;
+&lt;h1 id=&quot;一、标题&quot;&gt;&lt;a href=&quot;#一、标题&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Freenom</title>
+    <link href="https://linblog.ga/2020/11/30/Freenom/"/>
+    <id>https://linblog.ga/2020/11/30/Freenom/</id>
+    <published>2020-11-30T18:37:50.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="freenom"><a href="#freenom" class="headerlink" title="freenom"></a>freenom</h2><h3 id="freenom是一个免费的域名注册商"><a href="#freenom是一个免费的域名注册商" class="headerlink" title="freenom是一个免费的域名注册商"></a>freenom是一个免费的域名注册商</h3><p>今天教大家freenom注册域名（大佬勿喷！）<br>首先科学上网<br>然后在输入框输入你想注册的域名然后点击检查可用性<br>挑一个你想注册的域名<br>看准后面的0。00<br>点击现在获取<br>再点击上面的完成<br>然后右边的Period 的下面是可以挑注册时间的<br>而且一直到12月都免费，我们选12months<br>点击continue<br>输入邮箱勾选I have read and agree to the Terms &amp; Conditions<br>点击complete orter<br>他会发邮箱让你点链接<br>然后输入信息（注意填自己真实的信息时要先把科学上网关了）<br>公司可以不填<br>填完后下面按钮的旁边记得勾选一下<br>然后点击按钮<br>然后他会告诉你你的订单号<br>现在基本差不多了但我们还得调整一下<br>点击订单号下面的按钮<br>再点击Services中的my domdins<br>然后点击Manage Domain<br>点击Management Tools中的zhon的Nameservers<br>选择 Use custom nameservers (enter below)<br>这样我们可以不用登录或翻墙来编辑dns解析<br>点击Change Nameservers<br>你的域名就注册好了<br>是不是很开心呢<br>妈妈再也不怕我不会注册域名了呢!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;freenom&quot;&gt;&lt;a href=&quot;#freenom&quot; class=&quot;headerlink&quot; title=&quot;freenom&quot;&gt;&lt;/a&gt;freenom&lt;/h2&gt;&lt;h3 id=&quot;freenom是一个免费的域名注册商&quot;&gt;&lt;a href=&quot;#freenom是一个免费的域名</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云盘</title>
+    <link href="https://linblog.ga/2020/11/30/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/"/>
+    <id>https://linblog.ga/2020/11/30/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</id>
+    <published>2020-11-30T18:37:50.000Z</published>
+    <updated>2021-06-18T23:43:48.860Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="阿里云盘"><a href="#阿里云盘" class="headerlink" title="阿里云盘"></a>阿里云盘</h1><h2 id="今天我收到了来自阿里云盘的邀请码"><a href="#今天我收到了来自阿里云盘的邀请码" class="headerlink" title="今天我收到了来自阿里云盘的邀请码"></a>今天我收到了来自阿里云盘的邀请码</h2><p>额。。。。。。前几天来了个Teambition<br>这次又来个阿里云盘<br>这是啥套路<br>歉我内存不够用是吧<br>额。。。。。。也对那个Teambition的文件我还没上传完呢<br>我掐指一算我的文件有～=900G呢<br>就是不知道学校的网络好不好？<br>好了回到正题<br>我看了看官网。。。诶咋没入口了呢<br>哦（我看了看邮箱）原来只有手机端啊！<br>额只有1T我还是选择Teambition吧<br>但是我重复一遍</p><h2 id="申请体验"><a href="#申请体验" class="headerlink" title="申请体验:"></a>申请体验:</h2><ol><li>阿里云 Teambition 网盘 目前 Teambition网盘已经到了公测预约阶段，进入网站https://survey.aliyun.com/apps/zhiliao/jqBinngVQ，并填写相关问卷进行公测预约。</li><li>阿里云盘这是一款主打个人使用的云盘，小伙伴们可以进入网站https://www.aliyundrive.com/apply，进行报名体验。目前仅推出了iOS 手机版和 Android 手机版。所以也不是啥用也没有</li></ol><p>上面还写了反馈前一百名的送永久VIP<br>额。。。有点要变百度网盘的节奏了<br>好了，不说了，自己看去吧<br>我先去反馈了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;阿里云盘&quot;&gt;&lt;a href=&quot;#阿里云盘&quot; class=&quot;headerlink&quot; title=&quot;阿里云盘&quot;&gt;&lt;/a&gt;阿里云盘&lt;/h1&gt;&lt;h2 id=&quot;今天我收到了来自阿里云盘的邀请码&quot;&gt;&lt;a href=&quot;#今天我收到了来自阿里云盘的邀请码&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
